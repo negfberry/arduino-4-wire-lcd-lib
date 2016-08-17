@@ -1576,7 +1576,7 @@ type 0204, grid 2.5 mm</description>
 <label x="103.378" y="134.874" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="BL-S0" class="0">
+<net name="CON-S0" class="0">
 <segment>
 <pinref part="IC2" gate="A" pin="QC"/>
 <wire x1="99.06" y1="132.08" x2="132.08" y2="132.08" width="0.1524" layer="91"/>
@@ -1587,14 +1587,14 @@ type 0204, grid 2.5 mm</description>
 <label x="103.378" y="132.334" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="BL-S1" class="0">
+<net name="CON-S1" class="0">
 <segment>
 <pinref part="IC2" gate="A" pin="QD"/>
 <wire x1="99.06" y1="129.54" x2="119.38" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="129.54" x2="119.38" y2="116.84" width="0.1524" layer="91"/>
 <pinref part="IC3" gate="IC" pin="P1"/>
 <wire x1="134.62" y1="116.84" x2="119.38" y2="116.84" width="0.1524" layer="91"/>
-<label x="125.984" y="117.348" size="1.778" layer="95"/>
+<label x="125.222" y="117.348" size="1.778" layer="95"/>
 <label x="103.378" y="129.794" size="1.778" layer="95"/>
 </segment>
 </net>
@@ -1646,14 +1646,14 @@ type 0204, grid 2.5 mm</description>
 <wire x1="152.4" y1="134.62" x2="162.56" y2="134.62" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="BL-S2" class="0">
+<net name="CON-S2" class="0">
 <segment>
 <pinref part="IC3" gate="IC" pin="P2"/>
 <wire x1="134.62" y1="111.76" x2="116.84" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="111.76" x2="116.84" y2="127" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="A" pin="QE"/>
 <wire x1="116.84" y1="127" x2="99.06" y2="127" width="0.1524" layer="91"/>
-<label x="125.984" y="112.014" size="1.778" layer="95"/>
+<label x="125.222" y="112.014" size="1.778" layer="95"/>
 <label x="103.378" y="127.254" size="1.778" layer="95"/>
 </segment>
 </net>

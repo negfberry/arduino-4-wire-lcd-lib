@@ -916,7 +916,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="34.29" y1="19.812" x2="34.6456" y2="19.812" width="0.1016" layer="1"/>
 <wire x1="45.0088" y1="10.9728" x2="45.085" y2="10.8966" width="0.1016" layer="1"/>
 </signal>
-<signal name="BL-S0">
+<signal name="CON-S0">
 <contactref element="IC2" pad="2"/>
 <contactref element="IC3" pad="1"/>
 <wire x1="45.72" y1="10.9728" x2="46.3296" y2="10.9728" width="0.1016" layer="1"/>
@@ -928,7 +928,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <via x="45.72" y="10.9728" extent="1-16" drill="0.1524"/>
 <via x="33.02" y="10.9728" extent="1-16" drill="0.1524"/>
 </signal>
-<signal name="BL-S1">
+<signal name="CON-S1">
 <contactref element="IC2" pad="3"/>
 <contactref element="IC3" pad="2"/>
 <wire x1="47.5488" y1="11.2776" x2="47.5488" y2="10.9728" width="0.1016" layer="1"/>
@@ -1002,7 +1002,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="31.2928" y1="9.9568" x2="31.242" y2="9.99" width="0.1016" layer="1"/>
 <wire x1="62.2808" y1="19.812" x2="62.23" y2="19.812" width="0.1016" layer="1"/>
 </signal>
-<signal name="BL-S2">
+<signal name="CON-S2">
 <contactref element="IC3" pad="7"/>
 <contactref element="IC2" pad="4"/>
 <wire x1="48.8696" y1="10.5664" x2="48.8696" y2="10.8712" width="0.1016" layer="1"/>
